@@ -341,7 +341,7 @@ img.logo {
 }
 .overlap-group-2 {
     align-items: center;
-    background-image: url(".//Images/Traditional\ Food.jpg");
+    background-image: url(".//Images/Traditional.jpg");
     background-position: 50% 50%;
     background-size: cover;
     display: flex;
